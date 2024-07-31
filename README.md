@@ -10,4 +10,4 @@ run tsc : tsc index.ts
 
 run js: node index.js
 
-##### Tested by Chakrit Kaewploy
+#### Tested by Chakrit Kaewploy
